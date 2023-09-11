@@ -27,8 +27,4 @@ Python 3.x
 
 License :
 
-MIT License
-
-
-
-
+This code is licensed under the MIT License. Feel free to modify and use it in your projects.
